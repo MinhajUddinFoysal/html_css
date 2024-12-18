@@ -1,0 +1,7 @@
+.bg-light {
+    background-color: #597e19 !important;
+}
+
+.navbar-light .navbar-brand {
+    color: rgba(143, 116, 116, 0.9);
+}
